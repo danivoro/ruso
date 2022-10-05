@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Verbos.</title>
+        <style>
+            body {
+                margin-left: 50px;
+                margin-top: 50px;
+            }
+        </style>
+    </head>
+<body style="background-color: rgb(181, 181, 255)">
+<p> <h3>Escoge la traducción correcta de cada verbo.</h3> </p>
+
+<label>Волосы.</label>
+<select name="" id="">
+        <option value="">labios</option>
+        <option value="">pelo</option>
+        <option value="">dientes</option>
+</select>
+<p><label>Глаза.</label>
+<select name="" id="">
+    <option value="">ojos</option>
+    <option value="">mejillas</option>
+    <option value="">orejas</option>
+</p>
+</select>
+<p><label>Рот.</label>
+    <select name="" id="">
+        <option value="">pelo</option>
+        <option value="">labios</option>
+        <option value="">boca</option>
+</select>
+<p><label>Нос.</label>
+    <select name="" id="">
+        <option value="">nariz</option>
+        <option value="">ojo</option>
+        <option value="">diente</option>
+</p>
+</select>
+<p><label>Ухо.</label>
+    <select name="" id="">
+        <option value="">lengua</option>
+        <option value="">barbilla</option>
+        <option value="">oreja</option> 
+</p>
+</select>
+<p><label>Зубы.</label>
+    <select name="" id="">
+        <option value="">frente</option>
+        <option value="">dientes</option>
+        <option value="">nariz</option>
+</p>
+</select>
+<p><label>Язык.</label>
+    <select name="" id="">
+        <option value="">pelo</option>
+        <option value="">oreja</option>
+        <option value="">lengua</option>
+</p>
+    </select>
+<p><label>Брови.</label>
+        <select name="" id="">
+            <option value="">cejas</option>
+            <option value="">labios</option>
+            <option value="">boca</option>
+    </p>
+    </select>
+    <p><label>Лоб.</label>
+        <select name="" id="">
+            <option value="">mejillas</option>
+            <option value="">labios</option>
+            <option value="">frente</option>
+    </p>
+    </select>
+    <p><label>Губы.</label>
+        <select name="" id="">
+            <option value="">labios</option>
+            <option value="">pelo</option>
+            <option value="">ojos</option>       
+    </p>
+    </select>
+</select>
+
+</body>
+</html>
