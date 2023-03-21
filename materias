@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Materias.</title>
+        <style>
+            body {
+                margin-left: 50px;
+                margin-top: 50px;
+            }
+        </style>
+    </head>
+<body style="background-color: rgb(181, 181, 255)">
+<p> <h3>Escoge la traducción correcta de cada palabra.</h3> </p>
+
+<label>уроки.</label>
+<select name="" id="">
+        <option value="">educación física</option>
+        <option value="">deberes</option>
+        <option value="">matemáticas</option>
+</select>
+<p><label>прогулка.</label>
+<select name="" id="">
+    <option value="">deberes</option>
+    <option value="">escuela</option>
+    <option value="">patio</option>
+</p>
+</select>
+<p><label>игра.</label>
+    <select name="" id="">
+        <option value="">juego</option>
+        <option value="">pizarra</option>
+        <option value="">profesor</option>
+</select>
+<p><label>учитель.</label>
+    <select name="" id="">
+        <option value="">tiza</option>
+        <option value="">patio</option>
+        <option value="">profesor</option>
+</p>
+</select>
+<p><label>музыка.</label>
+    <select name="" id="">
+        <option value="">musa</option>
+        <option value="">baile</option>
+        <option value="">música</option> 
+</p>
+</select>
+<p><label>математика.</label>
+    <select name="" id="">
+        <option value="">álgebra</option>
+        <option value="">matemáticas</option>
+        <option value="">cálculo</option>
+</p>
+</select>
+<p><label>Язык.</label>
+    <select name="" id="">
+        <option value="">física</option>
+        <option value="">idioma</option>
+        <option value="">pizarra</option>
+</p>
+    </select>
+<p><label>физика.</label>
+        <select name="" id="">
+            <option value="">física</option>
+            <option value="">química</option>
+            <option value="">educación física</option>
+    </p>
+    </select>
+    <p><label>алгебра.</label>
+        <select name="" id="">
+            <option value="">alergia</option>
+            <option value="">alquimia</option>
+            <option value="">álgebra</option>
+    </p>
+    </select>
+    <p><label>физкультура.</label>
+        <select name="" id="">
+            <option value="">física</option>
+            <option value="">cultura</option>
+            <option value="">educación física</option>       
+    </p>
+    </select>
+</select>
+
+</body>
+</html>
