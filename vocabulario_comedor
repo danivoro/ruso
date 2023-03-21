@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Vocabulario Comedor.</title>
+        <style>
+            body {
+                margin-left: 50px;
+                margin-top: 50px;
+            }
+        </style>
+    </head>
+<body style="background-color: rgb(181, 181, 255)">
+<p> <h3>Escoge la traducción correcta de cada palabra.</h3> </p>
+
+<label>диван.</label>
+<select name="" id="">
+        <option value="">sillón</option>
+        <option value="">sofá</option>
+        <option value="">silla</option>
+</select>
+<p><label>лампа.</label>
+<select name="" id="">
+    <option value="">espejo</option>
+    <option value="">ventana</option>
+    <option value="">lámpara</option>
+</p>
+</select>
+<p><label>цветок.</label>
+    <select name="" id="">
+        <option value="">lámpara</option>
+        <option value="">flor</option>
+        <option value="">pizarra</option>
+</select>
+<p><label>картина.</label>
+    <select name="" id="">
+        <option value="">cuadro</option>
+        <option value="">imagen</option>
+        <option value="">ventana</option>
+</p>
+</select>
+<p><label>ковёр.</label>
+    <select name="" id="">
+        <option value="">carpeta</option>
+        <option value="">alfombra</option>
+        <option value="">flor</option> 
+</p>
+</select>
+<p><label>телевизор.</label>
+    <select name="" id="">
+        <option value="">televisor</option>
+        <option value="">televisión</option>
+        <option value="">teletexto</option>
+</p>
+</select>
+<p><label>батарея.</label>
+    <select name="" id="">
+        <option value="">radiador</option>
+        <option value="">ventana</option>
+        <option value="">batería</option>
+</p>
+    </select>
+<p><label>часы.</label>
+        <select name="" id="">
+            <option value="">radiador</option>
+            <option value="">cuadro</option>
+            <option value="">reloj</option>
+    </p>
+    </select>
+    <p><label>книга.</label>
+        <select name="" id="">
+            <option value="">libro</option>
+            <option value="">alfombra</option>
+            <option value="">flor</option>
+    </p>
+    </select>
+    <p><label>зеркало.</label>
+        <select name="" id="">
+            <option value="">escultura</option>
+            <option value="">cristal</option>
+            <option value="">espejo</option>       
+    </p>
+    </select>
+</select>
+
+</body>
+</html>
